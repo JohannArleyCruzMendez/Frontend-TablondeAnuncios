@@ -20,7 +20,27 @@ Este es el repositorio del frontend para la aplicación de Tablón de Anuncios. 
 
 ## 📸 Muestra Visual
 
-*[Aquí puedes poner una captura de pantalla o un GIF de tu aplicación funcionando]*
+<img width="1267" height="782" alt="image" src="https://github.com/user-attachments/assets/2e171f3a-e294-4a62-814f-019faaafb5d1" />
+<img width="1445" height="780" alt="image" src="https://github.com/user-attachments/assets/d037ec7d-f5ae-4685-8f85-18ce69b2cc2b" />
+<img width="859" height="797" alt="image" src="https://github.com/user-attachments/assets/98d43a4d-60f2-4d2f-864a-3ca3f38c5b45" />
+<img width="1101" height="467" alt="image" src="https://github.com/user-attachments/assets/8cb295fb-0878-4196-8462-5bd1bd5138a5" />
+<img width="1" height="10" alt="image" src="https://github.com/user-attachments/assets/b40a0094-cd7c-418b-8ee2-9c4bf7957bb4" />
+<img width="749" height="681" alt="image" src="https://github.com/user-attachments/assets/42f33703-f0bb-4973-a583-445994bd8478" />
+<img width="599" height="693" alt="image" src="https://github.com/user-attachments/assets/66b59cbd-4554-4c0d-bd74-bb7aa0b9ce7a" />
+<img width="964" height="384" alt="image" src="https://github.com/user-attachments/assets/6012d7de-877c-4517-b47d-1173f18a901f" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
