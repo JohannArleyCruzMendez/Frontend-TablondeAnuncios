@@ -20,7 +20,6 @@ Este es el repositorio del frontend para la aplicación de Tablón de Anuncios. 
 
 ## 📸 Muestra Visual
 
-<img width="1267" height="782" alt="image" src="https://github.com/user-attachments/assets/2e171f3a-e294-4a62-814f-019faaafb5d1" />
 <img width="1445" height="780" alt="image" src="https://github.com/user-attachments/assets/d037ec7d-f5ae-4685-8f85-18ce69b2cc2b" />
 <img width="859" height="797" alt="image" src="https://github.com/user-attachments/assets/98d43a4d-60f2-4d2f-864a-3ca3f38c5b45" />
 <img width="1101" height="467" alt="image" src="https://github.com/user-attachments/assets/8cb295fb-0878-4196-8462-5bd1bd5138a5" />
